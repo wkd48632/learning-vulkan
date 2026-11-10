@@ -1,6 +1,11 @@
 # learning-vulkan
 Learning vulkan.
 
+[Settings](#Dependencies)  
+[DXGI](#DXGI)  
+[Win32 Raw Input](#Inputs)  
+[Vulkan](#Vulkan)  
+
 ## Dependencies
 - Windows
 
@@ -27,3 +32,11 @@ main.exe: main.cpp
 clean:
 	del main.exe main.obj
 ```
+## DXGI
+dxgi  
+  
+## Inputs
+inputs  
+
+## Vulkan
+vulkan  
